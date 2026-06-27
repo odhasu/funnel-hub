@@ -1,0 +1,5 @@
+:HL["/resell/_next/static/chunks/13h7nnning~5v.css","style"]
+:HL["/resell/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/images/six-figures-screenshot.jpg","image"]
+:HL["/images/17k-month-screenshot.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"7thcg6m4KPhWSEh4kGQ_R"}
